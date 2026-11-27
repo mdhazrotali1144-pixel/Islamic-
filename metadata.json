@@ -1,0 +1,6 @@
+{
+  "name": "Al-Mizan",
+  "description": "A bilingual Bengali and English Islamic knowledge portal featuring the Holy Quran, Sahih Hadith, astronomical prayer times, Qibla compass, Islamic lexicon, Masnoon Duas, Tasbih, 99 Names of Allah, and Zakat calculator.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
